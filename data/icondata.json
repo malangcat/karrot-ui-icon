@@ -360,6 +360,18 @@
     "icon_profile_fill"
   ],
   [
+    "14309:2669",
+    "icon_my_thin"
+  ],
+  [
+    "14309:2665",
+    "icon_my_regular"
+  ],
+  [
+    "14309:2667",
+    "icon_my_fill"
+  ],
+  [
     "8965:1881",
     "icon_photo_thin"
   ],
@@ -994,6 +1006,18 @@
   [
     "79:774",
     "icon_remove_circle_fill"
+  ],
+  [
+    "14263:2665",
+    "icon_prohibition_thin"
+  ],
+  [
+    "14263:2669",
+    "icon_prohibition_regular"
+  ],
+  [
+    "14263:2671",
+    "icon_prohibition_fill"
   ],
   [
     "6707:54",
@@ -1678,5 +1702,17 @@
   [
     "8991:1583",
     "icon_chatting_fill"
+  ],
+  [
+    "14354:6210",
+    "icon_confirmation_thin"
+  ],
+  [
+    "14354:6211",
+    "icon_confirmation_regular"
+  ],
+  [
+    "14354:6212",
+    "icon_confirmation_fill"
   ]
 ]
