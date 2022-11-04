@@ -12,6 +12,18 @@
     "icon_groupchat_king_fill"
   ],
   [
+    "15768:3201",
+    "icon_check_flower_thin"
+  ],
+  [
+    "15768:3203",
+    "icon_check_flower_regular"
+  ],
+  [
+    "15768:3205",
+    "icon_check_flower_fill"
+  ],
+  [
     "9231:1789",
     "icon_leaf_thin"
   ],
@@ -1966,5 +1978,77 @@
   [
     "15665:3213",
     "icon_car_heated_seat_fill"
+  ],
+  [
+    "15876:3175",
+    "icon_text_thin"
+  ],
+  [
+    "15876:3176",
+    "icon_text_regular"
+  ],
+  [
+    "15876:3177",
+    "icon_text_fill"
+  ],
+  [
+    "15876:3178",
+    "icon_bold_thin"
+  ],
+  [
+    "15876:3179",
+    "icon_bold_regular"
+  ],
+  [
+    "15876:3180",
+    "icon_bold_fill"
+  ],
+  [
+    "15949:3506",
+    "icon_list_thumbnail_thin"
+  ],
+  [
+    "15949:3502",
+    "icon_list_thumbnail_regular"
+  ],
+  [
+    "15949:3503",
+    "icon_list_thumbnail_fill"
+  ],
+  [
+    "15949:3504",
+    "icon_list_card_thin"
+  ],
+  [
+    "15949:3505",
+    "icon_list_card_regular"
+  ],
+  [
+    "15949:3501",
+    "icon_list_card_fill"
+  ],
+  [
+    "16192:5944",
+    "icon_condo_thin"
+  ],
+  [
+    "16192:5943",
+    "icon_condo_regular"
+  ],
+  [
+    "16192:5945",
+    "icon_condo_fill"
+  ],
+  [
+    "16237:6008",
+    "icon_cobuying_thin"
+  ],
+  [
+    "16237:6007",
+    "icon_cobuying_regular"
+  ],
+  [
+    "16237:6009",
+    "icon_cobuying_fill"
   ]
 ]

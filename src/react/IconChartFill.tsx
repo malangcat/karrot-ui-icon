@@ -9,7 +9,7 @@ const IconChartFill = (props: SVGProps<SVGSVGElement>) => (
     {...props}
   >
     <path
-      d="M4 10C4 9.44772 4.44772 9 5 9H8C8.55228 9 9 9.44772 9 10V20C9 20.5523 8.55228 21 8 21H5C4.44772 21 4 20.5523 4 20V10Z"
+      d="M3 10C3 9.44772 3.44772 9 4 9H7C7.55228 9 8 9.44772 8 10V20C8 20.5523 7.55228 21 7 21H4C3.44772 21 3 20.5523 3 20V10Z"
       fill="currentColor"
     />
     <path
@@ -17,7 +17,7 @@ const IconChartFill = (props: SVGProps<SVGSVGElement>) => (
       fill="currentColor"
     />
     <path
-      d="M16 6C16 5.44772 16.4477 5 17 5H20C20.5523 5 21 5.44772 21 6V20C21 20.5523 20.5523 21 20 21H17C16.4477 21 16 20.5523 16 20V6Z"
+      d="M17 6C17 5.44772 17.4477 5 18 5H21C21.5523 5 22 5.44772 22 6V20C22 20.5523 21.5523 21 21 21H18C17.4477 21 17 20.5523 17 20V6Z"
       fill="currentColor"
     />
   </svg>
